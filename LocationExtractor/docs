@@ -1,0 +1,12 @@
+MCC         Mobile Country Code
+MNC         Mobile Network Codes        a.k.a. Provider 
+TAC         TrackingAreaCode (TAC) is defined by a group of cells for paging operation.
+
+
+The time is neither CF nor EPOC. iOS
+devices for this table use the number of seconds from 1/1/2001 to present. The formula
+would look like =(((TIMESTAMP/60)/60)/24)+DATE(2001,1,1)+(-6/24). 
+
+((603128157.252048 / 60 ) / 60) / 24) +
+
+(((603128157.252048 / 60 ) / 60) / 24

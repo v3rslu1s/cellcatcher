@@ -1,0 +1,11 @@
+Field test explained        https://docs.google.com/spreadsheets/d/11nLsQ_dB28uvWnD2STZJMLGZbijNk355SehWtMxkxh8/edit#gid=239081021
+
+Equipment info:             https://github.com/RayZhang/EquipmentInfo/blob/master/UIDevice%2BCoreTelephonyCategory.m
+jiao-jiao-ming-yue wiki:      https://code.google.com/archive/p/jiao-jiao-ming-yue/wikis
+core-ios:                   https://github.com/pwnsdx/core-ios/blob/19868fcfce187b5d5282ba231854064ad9054a55/core/Modules/Agents/RCSIAgentDevice.m
+signal logger:              https://github.com/brewpoo/SignalLogger 
+call loger chinese:         https://github.com/sheepkx/KDHMT/blob/master/Tweak.xm 
+flexi spy:                  https://github.com/Artogn/malware-1/blob/master/FlexiSpy/iOS/FlexiSPY%20Phoenix%204.9.2/codebase/MSFSRC/Source-MSFSRC/Tweak.xm
+
+
+iOS Headers: https://github.com/xybp888/iOS-Header/blob/a32841ce877fb5ebd4e62a1ac31add8ea591b78b/13.0/Frameworks/CoreTelephony.framework/CTTelephonyNetworkInfo.h
